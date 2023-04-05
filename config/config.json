@@ -18,6 +18,6 @@
     "password": "lxqesjhcC5uWix7FDatE1wsePGTUaHTW",
     "database": "bloom_blzv",
     "host": "dpg-cgl4eim4dad69r5pp6ug-a",
-    "dialect": "mysql"
+    "dialect": "postgres"
   }
 }
